@@ -1,0 +1,36 @@
+{
+    "1222": {
+        "name": "smit",
+        "password": "Smit27",
+        "balance": 50.0,
+        "transactions": [
+            {
+                "type": "Deposit",
+                "amount": 100.0,
+                "time": "2025-05-19 17:23:09"
+            },
+            {
+                "type": "Withdrawal",
+                "amount": 50.0,
+                "time": "2025-05-19 17:23:14"
+            }
+        ]
+    },
+    "11304": {
+        "name": "Smit Daulat Bangar",
+        "password": "Smit27",
+        "balance": 1850.0,
+        "transactions": [
+            {
+                "type": "Deposit",
+                "amount": 2000.0,
+                "time": "2025-05-19 17:30:16"
+            },
+            {
+                "type": "Withdrawal",
+                "amount": 150.0,
+                "time": "2025-05-19 17:30:28"
+            }
+        ]
+    }
+}
